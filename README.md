@@ -1,1 +1,1 @@
-Here we analize the spitify dataset and draw insight.
+Here we analyze the spitify dataset and draw insight.
